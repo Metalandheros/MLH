@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xe917404f56221ccc015966aa7e012593bb55e3ee",
-  "SCAN_LINK": "https://polygonscan.com/token/0xe917404f56221ccc015966aa7e012593bb55e3ee",
+  "CONTRACT_ADDRESS": "0xAB1d4FfFB9BE70d452C1d1B9c64E5139fC49D04F",
+  "SCAN_LINK": "https://polygonscan.com/token/0xAB1d4FfFB9BE70d452C1d1B9c64E5139fC49D04F",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Boring Stones NFT",
-  "SYMBOL": "TBSNFT",
-  "MAX_SUPPLY": 5000,
-  "WEI_COST": 6000000000000000000,
-  "DISPLAY_COST": 6,
+  "NFT_NAME": "Metaland Heros NFT",
+  "SYMBOL": "MTHN",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 650000000000000000,
+  "DISPLAY_COST": 0.65,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/theboringstones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metaland-heroes",
   "SHOW_BACKGROUND": true
 }
