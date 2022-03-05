@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xAB1d4FfFB9BE70d452C1d1B9c64E5139fC49D04F",
-  "SCAN_LINK": "https://polygonscan.com/token/0xAB1d4FfFB9BE70d452C1d1B9c64E5139fC49D04F",
+  "CONTRACT_ADDRESS": "0x3783f1781eadafdfcc78c390f2f24c58bf3345b3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3783f1781eadafdfcc78c390f2f24c58bf3345b3",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.65,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/metaland-heroes",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metaland-heros",
   "SHOW_BACKGROUND": true
 }
