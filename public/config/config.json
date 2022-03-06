@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Metaland Heros NFT",
+  "NFT_NAME": "METAHEROES NFTs V2",
   "SYMBOL": "MTHN",
   "MAX_SUPPLY": 2000,
   "WEI_COST": 650000000000000000,
   "DISPLAY_COST": 0.65,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/metaland-heros",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metaheroes-nfts-v2",
   "SHOW_BACKGROUND": true
 }
