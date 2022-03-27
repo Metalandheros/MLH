@@ -12,7 +12,5 @@
   "WEI_COST": 650000000000000000,
   "DISPLAY_COST": 0.65,
   "GAS_LIMIT": 300000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/metalandheroes-nfts",
   "SHOW_BACKGROUND": true
 }
